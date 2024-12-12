@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Dice game\Diceroll\obj\Debug\net8.0\Diceroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Dice game\Diceroll\obj\Debug\net8.0\Diceroll.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Dice game\Diceroll\obj\Debug\net8.0\Diceroll.AssemblyInfo.cs
+C:\Users\User\Desktop\Dice game\Diceroll\obj\Debug\net8.0\Diceroll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Dice game\Diceroll\bin\Debug\net8.0\Diceroll.exe
+C:\Users\User\Desktop\Dice game\Diceroll\bin\Debug\net8.0\Diceroll.deps.json
+C:\Users\User\Desktop\Dice game\Diceroll\bin\Debug\net8.0\Diceroll.runtimeconfig.json
+C:\Users\User\Desktop\Dice game\Diceroll\bin\Debug\net8.0\Diceroll.dll
+C:\Users\User\Desktop\Dice game\Diceroll\bin\Debug\net8.0\Diceroll.pdb
+C:\Users\User\Desktop\Dice game\Diceroll\obj\Debug\net8.0\Diceroll.dll
+C:\Users\User\Desktop\Dice game\Diceroll\obj\Debug\net8.0\refint\Diceroll.dll
+C:\Users\User\Desktop\Dice game\Diceroll\obj\Debug\net8.0\Diceroll.pdb
+C:\Users\User\Desktop\Dice game\Diceroll\obj\Debug\net8.0\Diceroll.genruntimeconfig.cache
+C:\Users\User\Desktop\Dice game\Diceroll\obj\Debug\net8.0\ref\Diceroll.dll
